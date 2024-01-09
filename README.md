@@ -4,7 +4,7 @@ I'm a **2nd year** undergraduate at **VIT Vellore** exploring my passion for **m
 
 I love coding up SOTA computer vision models, ML models and neural networks in to develope a deeper understanding of AI. My goal is to unravel some of AI's mysteries through hands-on projects.
 
-Outside of data world, I enjoy **public speaking**, playing **lawn and table tennis**, **swimming** and **hanging out with friends while achieving nothing.**
+Outside of data world, I enjoy **public speaking**, playing **lawn and table tennis**, **swimming** and **hanging out with friends doing absolutely nothing.**
 
 Over time, I hope this profile becomes a window into my adventures through the **multiverse of the buzzword AI**. Feel free to poke around my repositories and projects!
 
