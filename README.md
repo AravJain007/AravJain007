@@ -1,7 +1,8 @@
 # 👋 Hey there, I'm Arav Jain!  
 
-🚀 **Machine Learning | NLP | AI Research | Open-Source Enthusiast**  
+**MAGPIE Intern @ Samsung R&D Bangalore | ML Intern @ Wadhwani AI | Founder & Team Lead @ Prometheus | King Saud University ML Research Intern | IIT Indore Research Intern | 3x National Hackathon Winner**  
 
+Visit my website at: https://www.aravjain.work/
 ---
 
 ## 🏆 Achievements  
@@ -18,8 +19,6 @@
 🔹 **King Saud University & VIT** – ML Research Intern  
 🔹 **IIT Indore** – AI Research Intern  
 
-I work on **LLMs, ASR, Generative AI, and RAG systems**, solving real-world challenges!  
-
 ---
 
 ## 🔧 Skills  
@@ -32,5 +31,3 @@ I work on **LLMs, ASR, Generative AI, and RAG systems**, solving real-world chal
 ## 🌱 Let's Connect!  
 🔗 [GitHub](https://GitHub.com/AravJain007)  
 🔗 [LinkedIn](https://www.linkedin.com/in/arav-jain-926aa1267)  
-
-📄 **Want to check out my full resume?** [Click here!](https://drive.google.com/file/d/15hXQLDCeKY_S3XY5qWKvKEr32X1LXW1E/view?usp=sharing)  
