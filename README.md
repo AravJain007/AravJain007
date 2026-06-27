@@ -8,8 +8,7 @@ Visit my website at: https://www.aravjain.work/
 ## 🏆 Achievements  
 - 🏅 **National Winner** – Samsung PRISM Hackathon 2024  
 - 🏆 **National Winner** – ISRO’s SIF Hackathon 2023  
-- 🥉 **Top 3 in Nation** – Karnataka State Police Hackathon 2024  
-- 🎙 **Toastmasters Speaker** – Competed at Area Level  
+- 🥉 **Top 3 in Nation** – Karnataka State Police Hackathon 2024
 
 ---
 
